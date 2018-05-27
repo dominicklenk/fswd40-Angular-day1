@@ -1,0 +1,23 @@
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+h2 {
+	margin-bottom: 23px;
+}
+
+h4, h5 {
+	color: white;
+}
+
+.thumbnail > img {
+	width: 500px;
+	height: 270px;
+}
